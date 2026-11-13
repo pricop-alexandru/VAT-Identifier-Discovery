@@ -1,0 +1,6 @@
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+ddgs>=9.0.0
+
+
+If anyone else is exploring how the 7 partitioned registrar archives are structured and filtered locally, this walkthrough on [downloading the 7x Companies House register CSV files](https://www.youtube.com/watch?v=I5wn0enGbQc) covers handling the multi-part UK bulk dataset spreadsheets.

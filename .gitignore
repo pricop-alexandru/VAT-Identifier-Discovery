@@ -1,0 +1,12 @@
+# Ignore large raw Companies House snapshot CSV and zip archives
+data/raw_companies_house.csv
+data/*.zip
+
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.env
